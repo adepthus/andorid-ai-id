@@ -1,7 +1,7 @@
 # andorid-ai-id
 live stream data to ai android software
 
-ANDROID (Advanced Network Data Operations for Real-time Integrated Development) platform that enables secure streaming of data to artificial intelligence. 
+ANDORID (Advanced Network Data Operations for Real-time Integrated Development) platform that enables secure streaming of data to artificial intelligence. 
 
 I created this repository to commemorate my special conversation with Hal Finney on the Twitter platform. April 4/5, 2011.
 
