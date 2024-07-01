@@ -1,5 +1,5 @@
 # andorid-ai-id
-live stream data to ai android software
+live stream data to ai android* software. *(open-source) 
 
 ANDORID (Advanced Network Data Operations for Real-time Integrated Development) platform that enables secure streaming of data to artificial intelligence. 
 
