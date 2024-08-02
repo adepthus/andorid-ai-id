@@ -11,7 +11,7 @@ Satoshi Nakamoto is the author of BITCOIN: Peer to Peer Electronic Cash System a
 
 I am not that person.
 
-Keep in mind the first principle of BITCOIN SYSTEM: signature is a Key.
+Keep in mind the first principle of BITCOIN SYSTEM: Signature is a Key.
 
 Bitcoin has never been any source of income or profit to me.
 
